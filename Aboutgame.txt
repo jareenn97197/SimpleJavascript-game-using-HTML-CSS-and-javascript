@@ -1,0 +1,6 @@
+It is a simple game made through HTML,css and javascript 
+
+Game contain 4 heroes and 4 enemies you have to choose to choose 1 hero to with random 
+enemies.
+after each round popup will be there with update stats of both enemies and heroes.
+If you win you will get the popup of winning the game.
